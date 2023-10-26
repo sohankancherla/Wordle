@@ -6,6 +6,8 @@ The popular Wordle  game recreated using C
 
 ## How to Run
 
+go to the wordle directory: ```cd wordle```
+
 complile the program: ```gcc wordle.c -o wordle cs50.c```
 
 run the program: ```./wordle <word size>```
