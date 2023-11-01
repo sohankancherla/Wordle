@@ -3,6 +3,7 @@
 ## Project Description
 
 The popular Wordle  game recreated using C
+
 Starter code provided by CS50
 
 ## How to Run
